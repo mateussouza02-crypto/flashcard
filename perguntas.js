@@ -6,14 +6,14 @@ criaCartao(
 
 criaCartao(
     'robotica',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é a função principal de um atuador na robótica?',
+    'Converter energia em movimento físico, como girar uma roda.'
 )
 
 criaCartao(
     'robotica',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Que componente é frequentemente chamado de 'cerébro' de um robô?',
+    'Uma função é um bloco de código que execut'
 )
 
 criaCartao(
