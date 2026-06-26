@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'robotica',
-    'Que componente é frequentemente chamado de 'cerébro' de um robô?',
-    'Uma função é um bloco de código que execut'
+    'Que componente é frequentemente chamado de  de um robô?',
+    'Ele funciona como o "cérebro" porque realiza as seguintes funções:'
 )
 
 criaCartao(
