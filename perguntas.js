@@ -1,7 +1,7 @@
 criaCartao(
-    'robotica',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+ 'robotica',
+    'O que é um sensor num robô?',
+    'Um componente que permite ao robô recolher informações sobre o ambiente.'
 )
 
 criaCartao(
