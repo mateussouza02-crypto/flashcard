@@ -12,13 +12,13 @@ criaCartao(
 
 criaCartao(
     'robotica',
-    'Que componente é frequentemente chamado de  de um robô?',
-    'Ele funciona como o "cérebro" porque realiza as seguintes funções:'
+    'A palavra "robô" tem uma origem bastante interessante na literatura e no teatro. Qual foi a peça de teatro que introduziu a palavra pela primeira vez e qual é o significado da palavra tcheca "robota" que a originou?'
+    'R.U.R. significa Robôs Universais de Rossum e foi escrita pelo autor tcheco Karel Čapek em 1920.'
 )
 
 criaCartao(
     'robotica',
-    'Como se diz oi em Inglês?',
+    'Com',
     'Oi em ingles é HI (RAI)'
 )
 criaCartao(
